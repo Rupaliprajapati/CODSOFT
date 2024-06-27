@@ -5,10 +5,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - Demo
 - Features
 - Technologies Used
-- Installation
 - Usage
 - Contact
-- License
 - Demo
 - You can visit the live site here: https://rupaliwebsite.netlify.app
 
@@ -21,6 +19,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - About Me: Information about my skills, experience, and background.
 - Contact Form: A contact form to reach out to me directly from the website.
 - Social Media Links: Links to my social media profiles.
+
 ## Technologies Used
 - HTML5: For structuring the content of the website.
 - CSS3: For styling the website.
